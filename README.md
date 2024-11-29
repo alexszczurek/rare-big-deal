@@ -433,6 +433,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧰 | [GameDevTools.Pro](https://gamedevtools.pro) | Find the best game development, design and art tools. | 50% off with code **BF2024** |
 | 🛒 | [Zylvie](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** |
 | 🖥️ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
+| 🐝 | [uncoverLAB](https://uncoverlab.co) | Never start from blank Figma ever again! Use growing library of 370+ Figma templates. Just copy from an app and paste into your Figma! | 30% OFF for LTD with the code **ENJOYBF** |
 
 ### AI Design Tools
 | | Name | Description | Deal |
